@@ -1,3 +1,2 @@
-# Data-Analyst
-Projects:
+# Data-Analyst/Projects:
 1. Zomato Restaurant Analytics 
